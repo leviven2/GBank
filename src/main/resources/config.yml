@@ -1,0 +1,20 @@
+# Use either "file" or "mysql" for now
+storage-type: "file"
+
+db-host: "localhost"
+db-port: "3306"
+database-name: "bank-mysql"
+db-username: "root"
+db-password: "s@mething"
+
+# Amount of interval for every pay in seconds
+money-pay-interval: 300
+money-pay-amount: 100.0
+
+currencies:
+  euro:
+    name: Euro
+    prefix: €
+  dollars:
+    name: Dollar
+    prefix: $

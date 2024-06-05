@@ -1,0 +1,12 @@
+lang:
+  invalid-currency: "&cThis currency is invalid"
+  invalid-player: "&cThis player is invalid"
+  insufficient-balance: "&cInsufficient funds"
+  balance: "&fYou have %balance%"
+  successfully-given: "&fSuccessfully given money"
+  successfully-taken: "&fSuccessfully taken money"
+  successfully-set: "&fSuccessfully set money"
+  successfully-reloaded: "&fSuccessfully reloaded the config"
+  successfully-paid: "&fSuccessfully paid"
+  money-received: "&fYou have received %amount% from %sender%"
+  scheduled-payment: "&fYou have received %amount% for every currency of the server"
